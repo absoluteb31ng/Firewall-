@@ -30,3 +30,5 @@ Este script de Python implementa una aplicación de firewall básica utilizando 
 ## Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
+
+# Acepto sugerencias para seguir mejorando el proyecto
